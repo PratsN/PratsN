@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratsN
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Jva
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 
