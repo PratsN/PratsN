@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning New Technologies
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me 
+
 
 <!---
 PratsN/PratsN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
