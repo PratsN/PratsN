@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratiksha N.
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning New Technologies
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 
